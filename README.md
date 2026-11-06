@@ -1,7 +1,8 @@
 <div align="center">
   
 <img src="hares_logo_v2.svg" width="120" alt="hares_logo_v2.svg"/>
-# Guardian
+
+ Guardian
 
 Guardian is an educational program-protection tool written in Java and Python. It inspects the programs running on your computer and warns you about risky ones.
 
