@@ -21,15 +21,15 @@ Guardian never runs any new program. It only reads information about the program
 
 ## Files
 
-| File | Description |
-| --- | --- |
-| `GuardianGUI.java` | Graphical window with buttons and a results table |
-| `Guardian.java` | Command-line version that checks running programs against known hashes |
+| File                  | Description                                                                                         |
+| --------------------- | --------------------------------------------------------------------------------------------------- |
+| `GuardianGUI.java`    | Graphical window with buttons and a results table                                                   |
+| `Guardian.java`       | Command-line version that checks running programs against known hashes                              |
 | `guardian_monitor.py` | Python monitor that checks admin rights and risky folders, and writes `report.json` and `report.js` |
-| `dashboard.html` | Web dashboard that displays the report from `report.js` |
-| `index.html` | Download page for the project |
-| `guardian_logo.svg` | Project logo |
-| `known_hashes.txt` | Optional list of known SHA-256 fingerprints, one per line |
+| `dashboard.html`      | Web dashboard that displays the report from `report.js`                                             |
+| `index.html`          | Download page for the project                                                                       |
+| `guardian_logo.svg`   | Project logo                                                                                        |
+| `known_hashes.txt`    | Optional list of known SHA-256 fingerprints, one per line                                           |
 
 ## Requirements
 
